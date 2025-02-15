@@ -64,21 +64,3 @@
 | 长期     | 大模型微调                                                                   | - 学习LLaMA、ChatGLM等大模型微调技术<br>- 实现领域适配微调                   | - 代码：微调后的模型<br>- 实验：微调效果对比                                 |
 
 ---
-
-### **学习资源推荐**
-1. **课程**  
-   - 斯坦福CS224N（深度学习与NLP）：[课程链接](https://web.stanford.edu/class/cs224n/)  
-   - Hugging Face NLP课程：[课程链接](https://huggingface.co/course/chapter1)
-
-2. **书籍**  
-   - 《Speech and Language Processing》（Daniel Jurafsky）  
-   - 《Deep Learning with PyTorch》（Eli Stevens等）
-
-3. **工具与框架**  
-   - Hugging Face Transformers库：[官网](https://huggingface.co/transformers/)  
-   - PyTorch官方文档：[官网](https://pytorch.org/docs/stable/index.html)  
-   - Optuna调参工具：[官网](https://optuna.org/)
-
----
-
-通过此计划，您将系统掌握NLP算法工程师所需的核心技能，并具备工业级项目经验，适应国内高竞争求职环境。
